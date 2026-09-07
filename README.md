@@ -275,3 +275,10 @@ C++ | Object-Oriented Programming | Software Development
 ## 📄 License
 
 This project is created for educational and academic purposes.
+
+
+## Class Diagram
+
+![Cinema Booking System Class Diagram](images/class-diagram.png)
+
+
